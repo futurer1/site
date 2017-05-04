@@ -1,3 +1,6 @@
-body { background-color: #c0c0c0; }
+body {
+	background-color: #c0c0c0;
+	width: 600px;
+}
 h1 { font-size: 20px; font-weight: 600; color: #00ff00; }
 p { font-size: 16px; font-weight: 600; color: #000000; }
